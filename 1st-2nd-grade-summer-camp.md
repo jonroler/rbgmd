@@ -3,10 +3,6 @@ title: 1st & 2nd Grade Summer Camps
 layout: default
 ---
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 078401d2dd78852043d4ce28707719118bc44f0e
 <div class="eventdivide">
 	<hr>
 		<div class="grid-header">1st & 2nd GRADE SUMMER CAMPS</div>
