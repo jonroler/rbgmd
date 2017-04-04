@@ -13,7 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: :title/
+    permalink: ":title/"
 email: contact@redbuttegarden.org
 description: The official website of Red Butte Garden
 baseurl: ''
