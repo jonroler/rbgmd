@@ -21,17 +21,17 @@ url: http://redbuttegarden.org
 markdown: kramdown
 theme: minima
 gems:
-- jekyll-feed
-- jekyll-last-modified-at
+  - jekyll-feed
+  - jekyll-last-modified-at
 exclude:
-- Gemfile
-- Gemfile.lock
-- ".travis.yml"
+  - Gemfile
+  - Gemfile.lock
+  - ".travis.yml"
 permalink: pretty
 prose:
   events:
     _posts:
-    - name: layout
-      field:
-        element: hidden
-        value: events
+      - name: layout
+        field:
+          element: hidden
+          value: events
