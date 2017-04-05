@@ -31,18 +31,18 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  {% include favicon.html %}
+  {% include favicon.md %}
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans" /> <!-- Font 'Open Sans' Hosted by Google -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="/CSS/summer.css?v=1"> <!-- Additional local CSS -->
   
-{% include searchbar-toggle.html %}
+{% include searchbar-toggle.md %}
   
 </head>
 <body>
-{% include navbar.html %}
+{% include navbar.md %}
 
 <div id="rbgdefaultbody" class="container-fluid">
   <div class="row">
@@ -70,8 +70,8 @@
 
 <!-- Google Analytics Code -->
 
-{% include google-analytics.html %}
+{% include google-analytics.md %}
 
 </body>
-{% include footer.html %}
-{% include seasonal-css-js.html %}
+{% include footer.md %}
+{% include seasonal-css-js.md %}
